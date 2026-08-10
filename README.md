@@ -66,15 +66,19 @@ Capturar uma imagem da webcam
 Enviar tudo para o Discord configurado
 Salvar cópia local da imagem
 
+---
 
-📁 Estrutura do Projeto
+**Estrutura e Preview:**
+
+```bash
+## 📁 Estrutura do Projeto
+```bash
 ip-webcam-logger/
 ├── 📄 main.py              # Script principal
 ├── 📄 requirements.txt     # Dependências
 ├── 📄 README.md           # Este arquivo
 ├── 📄 LICENSE             # Licença MIT
 └── 📁 captures/           # Logs e imagens salvos
-
 
 🖼️ Preview
 Mensagem no Discord:
@@ -92,7 +96,7 @@ Mensagem no Discord:
 │  🗺️ Mapa:        [Ver no Google]    │
 └─────────────────────────────────────┘
 
-[webcam_capture.jpg]
+[webcam_capture.jpg]` ` `
 
 
 
