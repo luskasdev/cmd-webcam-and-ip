@@ -69,19 +69,20 @@ Salvar cópia local da imagem
 ---
 
 **Estrutura e Preview:**
-
-```bash
 ## 📁 Estrutura do Projeto
+
 ```bash
 ip-webcam-logger/
 ├── 📄 main.py              # Script principal
 ├── 📄 requirements.txt     # Dependências
 ├── 📄 README.md           # Este arquivo
 ├── 📄 LICENSE             # Licença MIT
-└── 📁 captures/           # Logs e imagens salvos
+└── 📁 captures/           # Logs e imagens salvos` ` `
 
-🖼️ Preview
+##🖼️ Preview
 Mensagem no Discord:
+
+```bash
 🚨 Nova Captura - 10/08/2026 15:30:45
 
 ┌─────────────────────────────────────┐
