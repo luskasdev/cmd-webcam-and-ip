@@ -69,9 +69,9 @@ Salvar cópia local da imagem
 ---
 
 **Estrutura e Preview:**
-## 📁 Estrutura do Projeto
+📁 Estrutura do Projeto
 
-```bash
+` ` `
 ip-webcam-logger/
 ├── 📄 main.py              # Script principal
 ├── 📄 requirements.txt     # Dependências
@@ -79,12 +79,11 @@ ip-webcam-logger/
 ├── 📄 LICENSE             # Licença MIT
 └── 📁 captures/           # Logs e imagens salvos` ` `
 
-##🖼️ Preview
+🖼️ Preview
 Mensagem no Discord:
 
-```bash
+` ` `
 🚨 Nova Captura - 10/08/2026 15:30:45
-
 ┌─────────────────────────────────────┐
 │  📸 Captura de Webcam + IP          │
 ├─────────────────────────────────────┤
@@ -96,21 +95,20 @@ Mensagem no Discord:
 │  👤 Usuário:     admin / DESKTOP-PC │
 │  🗺️ Mapa:        [Ver no Google]    │
 └─────────────────────────────────────┘
-
 [webcam_capture.jpg]` ` `
 
 
 
 
-*🛡️ Aviso Legal
+**🛡️ Aviso Legal**
 Este software é destinado apenas para fins educacionais e de segurança em seus próprios sistemas.
 
-✅ Uso Permitido:
+**✅ Uso Permitido:**
 Monitoramento de acesso aos seus próprios dispositivos
 Sistemas de autenticação e segurança pessoal
 Logging de acessos em servidores próprios
 Provas de conceito em ambientes controlados
-❌ Uso Proibido:
+**❌ Uso Proibido:**
 Espionagem sem consentimento
 Acesso não autorizado a dispositivos de terceiros
 Coleta de dados de pessoas sem permissão explícita
@@ -125,7 +123,7 @@ Crie uma branch (git checkout -b feature/nova-feature)
 Commit suas alterações (git commit -m 'Adiciona nova feature')
 Push para a branch (git push origin feature/nova-feature)
 Abra um Pull Request
-📜 Licença
+**📜 Licença**
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
 
 📞 Suporte
@@ -134,4 +132,4 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para d
 🐛 Issues: Mandar do Discord ou no E-Mail
 
 
-<p align="center"> Feito com ❤️ e Python </p>*
+<p align="center"> Feito com ❤️ e Python </p>
