@@ -51,9 +51,9 @@ Edite o arquivo main.py e substitua a URL do webhook do Discord:
 
 DISCORD_WEBHOOK = "https://discord.com/api/webhooks/SEU_WEBHOOK_AQUI"
 
+---
 
-
-🎯 Como Usar
+## 🎯 Como Usar
 Execução básica
 
 python main.py
@@ -66,11 +66,9 @@ Capturar uma imagem da webcam
 Enviar tudo para o Discord configurado
 Salvar cópia local da imagem
 
+---
 
-
-
-
-**🛡️ Aviso Legal**
+## 🛡️ Aviso Legal
 Este software é destinado apenas para fins educacionais e de segurança em seus próprios sistemas.
 
 **✅ Uso Permitido:**
