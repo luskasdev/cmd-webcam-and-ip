@@ -35,7 +35,6 @@
 
 ### 1. Clone o repositório
 
-```bash
 git clone https://github.com/seu-usuario/ip-webcam-logger.git
 cd ip-webcam-logger
 
@@ -98,7 +97,7 @@ Mensagem no Discord:
 
 
 
-🛡️ Aviso Legal
+*🛡️ Aviso Legal
 Este software é destinado apenas para fins educacionais e de segurança em seus próprios sistemas.
 
 ✅ Uso Permitido:
@@ -130,4 +129,4 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para d
 🐛 Issues: Mandar do Discord ou no E-Mail
 
 
-<p align="center"> Feito com ❤️ e Python </p> ```
+<p align="center"> Feito com ❤️ e Python </p>*
