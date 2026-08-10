@@ -66,36 +66,6 @@ Capturar uma imagem da webcam
 Enviar tudo para o Discord configurado
 Salvar cópia local da imagem
 
----
-
-**Estrutura e Preview:**
-📁 Estrutura do Projeto
-
-` ` `
-ip-webcam-logger/
-├── 📄 main.py              # Script principal
-├── 📄 requirements.txt     # Dependências
-├── 📄 README.md           # Este arquivo
-├── 📄 LICENSE             # Licença MIT
-└── 📁 captures/           # Logs e imagens salvos` ` `
-
-🖼️ Preview
-Mensagem no Discord:
-
-` ` `
-🚨 Nova Captura - 10/08/2026 15:30:45
-┌─────────────────────────────────────┐
-│  📸 Captura de Webcam + IP          │
-├─────────────────────────────────────┤
-│  🌐 IP Público:  201.xxx.xxx.xxx    │
-│  📍 IP Local:    192.168.1.100      │
-│  📍 Localização: São Paulo, Brasil  │
-│  🌐 Provedor:    Vivo Fibra         │
-│  💻 Sistema:     Windows 10 x64     │
-│  👤 Usuário:     admin / DESKTOP-PC │
-│  🗺️ Mapa:        [Ver no Google]    │
-└─────────────────────────────────────┘
-[webcam_capture.jpg]` ` `
 
 
 
