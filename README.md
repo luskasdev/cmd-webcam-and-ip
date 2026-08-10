@@ -105,7 +105,9 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para d
 
 ## 📞 Suporte
 📧 Email: joaoluskas128@gmail.com
+---
 💬 Discord: madebycriminalviolenc
+---
 🐛 Issues: Mandar do Discord ou no E-Mail
 
 
