@@ -76,6 +76,7 @@ Monitoramento de acesso aos seus próprios dispositivos
 Sistemas de autenticação e segurança pessoal
 Logging de acessos em servidores próprios
 Provas de conceito em ambientes controlados
+
 **❌ Uso Proibido:**
 Espionagem sem consentimento
 Acesso não autorizado a dispositivos de terceiros
@@ -83,18 +84,26 @@ Coleta de dados de pessoas sem permissão explícita
 Qualquer atividade ilegal ou antiética
 O autor não se responsabiliza pelo uso indevido desta ferramenta.
 
-🤝 Contribuição
-Contribuições são bem-vindas! Para contribuir:
+## 🤝 Contribuição
+Contribuições são bem-vindas! Tenho apenas 13 anos, então é bem difícil fazer tudo isso sozinho. Para contribuir:
+**PIX:** joaoluskas128@gmail.com
 
-Fork o projeto
+---
+
+## 🍴 Fork
 Crie uma branch (git checkout -b feature/nova-feature)
 Commit suas alterações (git commit -m 'Adiciona nova feature')
 Push para a branch (git push origin feature/nova-feature)
 Abra um Pull Request
-**📜 Licença**
+
+---
+
+## 📜 Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
 
-📞 Suporte
+---
+
+## 📞 Suporte
 📧 Email: joaoluskas128@gmail.com
 💬 Discord: madebycriminalviolenc
 🐛 Issues: Mandar do Discord ou no E-Mail
